@@ -21,5 +21,5 @@ The application is designed to run on phones with Android 2.2 and up.
 	h) In the top menu, click Run and Run it as an Android Application.
 	i) When the Android Device chooser comes up, select your device and click OK.
 	j) When you open up your android device, the application should automatically run.
-
+ 
 3) Google Play App Page: https://play.google.com/store/apps/details?id=com.clementsu.sheepgame
